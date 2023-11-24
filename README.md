@@ -164,8 +164,3 @@ Check this API using Postman [CLICK HERE!](https://elements.getpostman.com/redir
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-=======
-## POSTMAN
-Check this API using Postman https://elements.getpostman.com/redirect?entityId=29017942-24880bd1-df51-421b-993a-91442ae2805c&entityType=collection
->>>>>>> 6eb60762e8d9b0c3abc95101add6a07196fdb37f
