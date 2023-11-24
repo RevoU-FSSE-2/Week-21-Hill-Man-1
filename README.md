@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FLASK SOCIAL MEDIA APP
 Overview
 This project is a Flask-based web application that utilizes SQLAlchemy as its ORM (Object-Relational Mapping) for database interactions. The application models include User, Tweet, and Following to implement a basic social media platform. The project structure is organized into three main files: pipfile, db.py, and model files (user_model.py, tweet_model.py, following_model.py).
